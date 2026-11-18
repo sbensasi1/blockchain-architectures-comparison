@@ -3,7 +3,7 @@
 Auteur : BEN SASI SAAD EDDINE
 
 ## 1. Question choisie
-Comment choisir entre une blockchain publique, un registre distribué permissionné et une base de données classique pour assurer la traçabilité d'une chaîne d'approvisionnement multi-acteurs ?
+Comment choisir entre une blockchain publique, un registre distribué et une base de données classique pour assurer la traçabilité d'une chaîne d'approvisionnement multi-acteurs ?
 
 ## 2. Démarche
 1. Définition d'un cas concret de traçabilité logistique impliquant plusieurs acteurs concurrents et des auditeurs.
